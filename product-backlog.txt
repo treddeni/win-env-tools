@@ -1,0 +1,17 @@
+Incomplete User Stories
+-----------------------
+- View system environment variables
+- View user environment variables
+- Edit system environment variables
+- Edit user environment variables
+- Add a system environment variable
+- Add a user environment variable
+
+Bugs/Issues
+-----------
+
+Completed User Stories
+----------------------
+- View Windows Path
+- Edit Windows Path
+- Append to Windows Path
